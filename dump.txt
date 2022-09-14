@@ -1,0 +1,28 @@
+{
+    "email": "user1@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "JavaScript",
+    "name": "User 1",
+    "phone": "1234567890"
+}
+{
+    "email": "user2@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+    "jobTitle": "JavaScript",
+    "name": "User 2",
+    "phone": "1234567890"
+}
+{
+    "email": "user3@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle": "SQL",
+    "name": "User 3",
+    "phone": "1234567890"
+}
+{
+    "email": "user4@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar4.png",
+    "jobTitle": "Python",
+    "name": "User 4",
+    "phone": "1234567890"
+}
